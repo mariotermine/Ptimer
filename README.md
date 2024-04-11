@@ -9,4 +9,8 @@ The intended system behavior is to activate the low speed fan relay for 5 minute
 
 In this repo you will find the code, PCB design files, and 3D models for printing.
 
+Version 1 info:
+  - In version 1, the system is fully operational but unrefined.
+  - In new versions: code may be optimized and updated as bugs are found, PCB design changes will occur, and CAD models refined.
+
 For more info, please visit https://mariotermine.me/ptimer
